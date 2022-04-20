@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Lucas"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-18 12:46:34 "/>
+        <attribute name="created" value="THVjYXM7TFVDQVNPSTsyMDIyLTA0LTE4OyIxMjo0MDo1MSAiOzIyMTk="/>
+        <attribute name="edited" value="THVjYXM7TFVDQVNPSTsyMDIyLTA0LTE4OyIxMjo0NjozNCAiOzE7MjMzNA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome, sobrenome, idade" type="String" array="False" size=""/>
+            <output expression="&quot;Qual seu nome: &quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Qual seu sobrenome: &quot;" newline="True"/>
+            <input variable="sobrenome"/>
+            <output expression="&quot;Qual sua idade: &quot;" newline="True"/>
+            <input variable="idade"/>
+            <output expression="&quot; Ol&#225; &quot; &amp; nome &amp; sobrenome &amp; &quot; Sua idade &#233; : &quot; &amp; idade" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
