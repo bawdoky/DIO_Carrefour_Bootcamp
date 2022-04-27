@@ -1,0 +1,30 @@
+body{
+    font: 20px Arial Sans-serif;
+}
+.navbar {
+   background-color: rgb(153, 153, 226);
+}
+
+.sobre-nos{
+    background-color: blueviolet;
+    color: beige;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: brown;
+    color: aliceblue;
+}
+
+.serviços{
+    background-color: rgb(157, 179, 32);
+}
+
+.bg-footer{
+    background-color: black;
+    color: aliceblue;
+}
