@@ -1,4 +1,4 @@
-<h1 align="center">:play: NETFLIX_Clone</h1>
+<h1 align="center">:🎞:NETFLIX_Clone</h1>
 
 ## :memo: Descrição
 Netflix foi um projeto desenvolvido durante o Bootcamp da Digital Innovation One, em que o objetivo era recriar uma aplicação do Netflix utilizando HTM5, CSS3, JavaScript e JQuery.
@@ -8,8 +8,8 @@ Netflix foi um projeto desenvolvido durante o Bootcamp da Digital Innovation One
 </p>
 
 ## :books: Conteúdo
-* <b>Cabeçalho:</b> Destaque para um vídeo no início do site com player do YouTube.
-* <b>Carrousel:</b> Cada categoria possui um carrousel de filmes diversos.
+* <b>Cabeçalho:</b> Destaque para um vídeo no início do site com player do YouTube e informações do wikipedia
+* <b>Carrousel:</b> Possui um carrousel de filmes diversos.
 
 ## :wrench: Tecnologias utilizadas
 * VS Code;
@@ -21,4 +21,4 @@ Netflix foi um projeto desenvolvido durante o Bootcamp da Digital Innovation One
 * Responsive
 
 ## :dart: Status do projeto
-O projeto foi finalizado durante no Bootcamp DI-Carrefour modulo 2.
+O projeto foi finalizado durante no Bootcamp DIO-Carrefour modulo 2.
