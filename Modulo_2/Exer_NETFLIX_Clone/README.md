@@ -1,7 +1,7 @@
-<h1 align="center">:🎞:NETFLIX_Clone</h1>
+<h1 align="center">:tv: NETFLIX_Clone</h1>
 
 ## :memo: Descrição
-Netflix foi um projeto desenvolvido durante o Bootcamp da Digital Innovation One, em que o objetivo era recriar uma aplicação do Netflix utilizando HTM5, CSS3, JavaScript e JQuery.
+Netflix Clone, foi um projeto desenvolvido durante o Bootcamp da Digital Innovation One, em que o objetivo era recriar uma aplicação do Netflix utilizando HTM5, CSS3, JavaScript e JQuery.
 
 <p align="center">
   <img alt="ImgIndex" src="https://i.imgur.com/LleZJxM.png" width="600">
